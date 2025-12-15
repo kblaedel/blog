@@ -5,11 +5,11 @@ date: 2025-12-04
 categories: notes, programming
 ---
 
-tl;dr. My pitch is,
+tl;dr: My pitch is,
 you anyway write your notes in Markdown-like text files;
 why not index and search them with [zk-org](https://github.com/zk-org/zk)?
 I use Neovim, but the setup is editor agnostic.
-This is not overkill.
+This is __not__ overkill.
 
 ![
 ]({{site.baseurl}}/assets/images/about_zk/zk_demo.gif)
@@ -22,14 +22,14 @@ Privately, I juggle too many open projects as well.
 Half my stress isn’t the work itself—it’s trying to remember where I left off.
 My brain never reloads context fast enough.
 
-If you feel a little ADHD-ish at work, it might not be you. You might just need a better notes system.
+If you feel a little ADHD-ish at work, it might not be you. You might just need a better system for notes.
 
 I tried the usual tools:
 
 - [Trello](https://trello.com) for recipes and daily todos
 - [Notion](https://www.notion.so/) for project notes
 - Emailing myself links as a "read later" system
-- and using [Outlook "To Do"](https://to-do.office.com/tasks/) at work
+- Even using [Outlook "To Do"](https://to-do.office.com/tasks/) at work
 
 None of it felt natural.
 I don’t want another app, dashboards, backlinks, or
